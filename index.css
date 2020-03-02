@@ -1,0 +1,22 @@
+body{
+    background-color:lightgreen;
+    width:100%;
+
+}
+
+.frm{
+    background-color: white;
+    border: 6px solid black;
+    width: 250px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 35%;
+
+
+}
+.input{
+    margin: 10px 0 10px 10px;
+    align-self: auto;
+
+}
